@@ -9,7 +9,7 @@
   
 3. **Search by Caption**: Users can search for images using natural language queries. The application retrieves images whose captions match the query.
 
-![Screenshot 2024-06-09 221845](https://github.com/Mihaillo29/Photo-Semantic-Finder---Google-photos-replica/assets/117961472/15733937-c29e-422a-92b7-a2be5d543afc)
+![Screenshot 2024-06-09 221845](https://github.com/Mihaillo29/Photo-Semantic-Finder-Google-photos-replica/assets/117961472/1b831dfc-6a16-43cb-b292-f9a3d90865ff)
 
 <hr>
 
