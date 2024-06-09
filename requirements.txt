@@ -1,0 +1,10 @@
+transformers>=4.36.2
+diffusers>=0.25.0
+openai>=1.3.9
+streamlit>=1.29.0
+ctransformers[cuda]>=0.2.24
+ 
+Pillow>=9.3.0
+accelerate>=0.25.0
+cvzone>=1.6.1
+pypdf
